@@ -2,9 +2,7 @@
 
 ## 💻 Java Backend / Fullstack Developer
 
-Desenvolvedor em transição para a área de tecnologia, atualmente estudando Engenharia de Software e desenvolvendo aplicações com foco em **Java, Spring Boot, APIs REST, bancos de dados e desenvolvimento Fullstack**.
-
-Tenho experiência prática com desenvolvimento de aplicações utilizando Java, TypeScript, Node.js, React, PostgreSQL e Docker.
+Desenvolvedor Java Backend / Fullstack com foco em Java, Spring Boot e APIs REST. Atualmente graduando em Engenharia de Software, desenvolvendo aplicações com Java, TypeScript, React, Node.js e PostgreSQL.
 
 ---
 
@@ -92,12 +90,6 @@ Aplicação Java para conversão de documentos PDF para DOCX.
 - Docker
 - Testes automatizados
 - CI/CD
-
----
-
-## 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YggorMartins&show_icons=true&theme=dark)
 
 ---
 

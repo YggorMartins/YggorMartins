@@ -50,31 +50,40 @@ Sistema de gerenciamento logístico desenvolvido com foco em backend e APIs REST
 
 ---
 
-### ☕ Itaú Teste
+### ☕ MVSystem
 
-API desenvolvida em Java com Spring Boot, aplicando regras de negócio e processamento de transações.
+MVSystem é uma aplicação backend para gestão de pequenos negócios, com foco em autenticação, cadastro de produtos, controle de estoque, vendas e fluxo de caixa. 
 
 **Tecnologias:**
-- Java
-- Spring Boot
-- Maven
-- REST API
-- Java Streams
+- Node.js
+- TypeScript
+- Express
+- Prisma ORM
+- PostgreSQL
+- JWT para autenticação
+- Zod para validação de dados
+- bcryptjs para criptografia de senhas
 
-🔗 [Ver projeto](https://github.com/YggorMartins/itau-teste)
+🔗 [Ver projeto]([https://github.com/YggorMartins/itau-teste](https://github.com/YggorMartins/MVSystem))
 
 ---
 
-### 📄 Conversor Docs
+### 📄 Sentry Maintenance API
 
-Aplicação Java para conversão de documentos PDF para DOCX.
+API de gestão de manutenção aeronáutica para uma oficina certificada.
 
 **Tecnologias:**
-- Java
-- Apache PDFBox
-- Apache POI
+- Python 3.12+
+- FastAPI
+- PostgreSQL
+- SQLAlchemy 2.0
+- Alembic
+- Pydantic V2
+- Docker
+- JWT
+- Pytest
 
-🔗 [Ver projeto](https://github.com/YggorMartins/Conversor-Docs)
+🔗 [Ver projeto]([https://github.com/YggorMartins/Conversor-Docs](https://github.com/YggorMartins/sentry-maintenance-api))
 
 ---
 

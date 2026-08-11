@@ -64,7 +64,7 @@ MVSystem é uma aplicação backend para gestão de pequenos negócios, com foco
 - Zod para validação de dados
 - bcryptjs para criptografia de senhas
 
-🔗 [Ver projeto]([https://github.com/YggorMartins/itau-teste](https://github.com/YggorMartins/MVSystem))
+🔗 [Ver projeto]([https://github.com/YggorMartins/MVSystem])
 
 ---
 
@@ -83,7 +83,7 @@ API de gestão de manutenção aeronáutica para uma oficina certificada.
 - JWT
 - Pytest
 
-🔗 [Ver projeto]([https://github.com/YggorMartins/Conversor-Docs](https://github.com/YggorMartins/sentry-maintenance-api))
+🔗 [Ver projeto]([https://github.com/YggorMartins/sentry-maintenance-api])
 
 ---
 
@@ -104,7 +104,7 @@ API de gestão de manutenção aeronáutica para uma oficina certificada.
 
 ## 📫 Contato
 
-💼 [LinkedIn](https://www.linkedin.com/in/yggor-martins-aa880a93/)
+💼 [LinkedIn]([https://www.linkedin.com/in/yggor-martins-aa880a93/])
 
 🌐 [Portfólio](https://yggormartins.github.io/Projeto-Portifolio-Dev/)
 

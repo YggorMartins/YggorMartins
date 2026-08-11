@@ -104,7 +104,7 @@ API de gestão de manutenção aeronáutica para uma oficina certificada.
 
 ## 📫 Contato
 
-💼 [LinkedIn]([https://www.linkedin.com/in/yggor-martins-aa880a93/])
+💼 [LinkedIn](https://www.linkedin.com/in/yggormartins)
 
 🌐 [Portfólio](https://yggormartins.github.io/Projeto-Portifolio-Dev/)
 

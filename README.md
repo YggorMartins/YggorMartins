@@ -41,7 +41,6 @@ Gosto de transformar regras de negócio em sistemas organizados, testáveis e f�
 
 - REST APIs
 - Arquitetura em camadas
-- Spring Data JPA / Hibernate
 - Autenticação e autorização
 - JWT
 - Refresh Tokens
